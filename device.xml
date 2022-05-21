@@ -4,7 +4,7 @@
           fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
           revision="twelve" />
   <remote name="Xiaomi-renoir-Development"
-          fetch="https://github.com/PixelExperience"
+          fetch="https://github.com/Xiaomi-renoir-Development"
           revision="twelve"
            />
 
