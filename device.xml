@@ -10,7 +10,7 @@
 
   <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="Xiaomi-renoir-Development" revision="Corvus_13" />
 
-  <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm7350-common" remote="Xiaomi-renoir-Development" revision="twelve" />
+  <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Xiaomi-renoir-Development" revision="twelve" />
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Xiaomi-renoir-Development" revision="Corvus_13" />
 
 
