@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Xiaomi-renoir-Development"
-          fetch="https://github.com/Xiaomi-renoir-Development"
-          revision="Corvus_13"
-           />
-
-  <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="Xiaomi-renoir-Development"  />
-
-  <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Xiaomi-renoir-Development"  />
-  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Xiaomi-renoir-Development"/>
-
-
+  <remote name="Xiaomi-renoir-Development" fetch="https://github.com/Xiaomi-renoir-Development" revision="lineage-19.1" />
+  <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="Xiaomi-renoir-Development" />
+  <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Xiaomi-renoir-Development" />
+  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Xiaomi-renoir-Development" />
 </manifest>
