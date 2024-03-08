@@ -5,7 +5,6 @@
   <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="Xiaomi-renoir-Development" />
   <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Xiaomi-renoir-Development" />
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Xiaomi-renoir-Development" />
-  <project path="vendor/qcom/opensource/healthd-ext" name="android_vendor_qcom_opensource_healthd-ext" remote="LineageOS" />
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="Maitani-Sakura/android_vendor_nxp_opensource_commonsys_external_libnfc-nci" remote="github" revision="lineage-20" />
   <project path="vendor/nxp/opensource/commonsys/frameworks" name="Maitani-Sakura/android_vendor_nxp_opensource_commonsys_frameworks" remote="github" revision="lineage-20" />
