@@ -7,4 +7,12 @@
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Xiaomi-renoir-Development" />
   <project path="vendor/qcom/opensource/healthd-ext" name="android_vendor_qcom_opensource_healthd-ext" remote="LineageOS" />
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" />
+  <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="android_vendor_nxp_opensource_commonsys_external_libnfc-nci" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/nxp/opensource/commonsys/frameworks" name="android_vendor_nxp_opensource_commonsys_frameworks" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="android_vendor_nxp_opensource_commonsys_packages_apps_Nfc" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="android_vendor_nxp_opensource_sn100x_hidlimpl" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/nxp/opensource/sn100x/halimpl" name="android_vendor_nxp_opensource_sn100x_halimpl" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_opensource_interfaces_nfc" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="Xiaomi-renoir-Development" />
 </manifest>
