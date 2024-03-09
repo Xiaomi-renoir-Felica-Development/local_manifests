@@ -12,4 +12,6 @@
   <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="Maitani-Sakura/android_vendor_nxp_opensource_sn100x_hidlimpl" remote="github" revision="lineage-20" />
   <project path="vendor/nxp/opensource/sn100x/halimpl" name="Maitani-Sakura/android_vendor_nxp_opensource_sn100x_halimpl" remote="github" revision="lineage-20" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="Maitani-Sakura/android_vendor_nxp_opensource_interfaces_nfc" remote="github" revision="lineage-20" />
+  <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="Xiaomi-renoir-Development" />
+  <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="Xiaomi-renoir-Development" />
 </manifest>
