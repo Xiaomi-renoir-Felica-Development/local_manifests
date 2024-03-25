@@ -7,7 +7,7 @@
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="Xiaomi-renoir-Development" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="Xiaomi-veux-development/android_vendor_nxp_opensource_external_libnfc-nci" remote="github" revision="14" />
   <project path="vendor/nxp/opensource/commonsys/frameworks" name="android_vendor_nxp_opensource_commonsys_frameworks" remote="Xiaomi-renoir-Development" />
-  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="Xiaomi-veux-development/android_vendor_nxp_opensource_packages_apps_Nfc" remote="github" revision="14" />
+  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="android_vendor_nxp_opensource_packages_apps_Nfc" remote="Xiaomi-renoir-Development" revision="14" />
   <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="android_vendor_nxp_opensource_sn100x_hidlimpl" remote="Xiaomi-renoir-Development" />
   <project path="vendor/nxp/opensource/sn100x/halimpl" name="android_vendor_nxp_opensource_sn100x_halimpl" remote="Xiaomi-renoir-Development" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_opensource_interfaces_nfc" remote="Xiaomi-renoir-Development" />
